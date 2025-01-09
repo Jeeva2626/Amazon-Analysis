@@ -18,6 +18,10 @@ This dashboard empowers data analysts with the insights they need to understand 
 10.	The companies starting and current data end dates 
 11.	Attach the web link in the company icon.
 
+## Dashboard Screenshoot 
+
+![WhatsApp Image 2025-01-09 at 13 21 35_ad249191](https://github.com/user-attachments/assets/ba1b76b9-3331-4cb4-a3f7-d371c9558509)
+
 
 
 
