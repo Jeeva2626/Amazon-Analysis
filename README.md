@@ -22,6 +22,9 @@ This dashboard empowers data analysts with the insights they need to understand 
 
 ![WhatsApp Image 2025-01-09 at 13 21 35_ad249191](https://github.com/user-attachments/assets/ba1b76b9-3331-4cb4-a3f7-d371c9558509)
 
+## Summary of this Dashboard 
+
+![WhatsApp Image 2025-01-09 at 13 21 35_b9e22543](https://github.com/user-attachments/assets/59ae5f7d-eac8-4e34-a221-1c7d7ddb5848)
 
 
 
