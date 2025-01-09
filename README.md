@@ -18,6 +18,13 @@ This dashboard empowers data analysts with the insights they need to understand 
 10.	The companies starting and current data end dates 
 11.	Attach the web link in the company icon.
 
+## Project insight 
+1.	The countries like America, India are having more Subscribers.(>48%) compare to other country users.
+2.	Based on genres Drama, comedy, Documentary are having good ratings.
+3.	In Every year the movies are getting high rating and TV’s aren’t.
+4.	Comparatively movies are dominating then the TV shows.
+
+
 ## Dashboard Screenshoot 
 
 ![WhatsApp Image 2025-01-09 at 13 21 35_ad249191](https://github.com/user-attachments/assets/ba1b76b9-3331-4cb4-a3f7-d371c9558509)
